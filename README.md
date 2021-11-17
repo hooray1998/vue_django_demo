@@ -1,3 +1,5 @@
+https://simple-code-editor.vicuxd.com/
+
 # 整合 Django 2.x + Vue.js 框架快速搭建web项目
 
 ## 一、 背景
